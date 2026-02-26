@@ -1,0 +1,10 @@
+name: iCSC-2026-exercise
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scipy
+  - ipython
+  - ipykernel
