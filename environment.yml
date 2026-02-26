@@ -1,4 +1,4 @@
-name: iCSC-2026-exercise
+name: icsc
 channels:
   - conda-forge
 dependencies:
